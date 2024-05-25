@@ -15,8 +15,8 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone <[repository-url](https://github.com/Elomunait/John-Elomunait---Handwritten-Digits-Classifier-with-PyTorch.git)>
-    cd <[repository-directory](https://github.com/Elomunait/John-Elomunait---Handwritten-Digits-Classifier-with-PyTorch)>
+    git clone (https://github.com/Elomunait/John-Elomunait---Handwritten-Digits-Classifier-with-PyTorch.git)
+    cd (https://github.com/Elomunait/John-Elomunait---Handwritten-Digits-Classifier-with-PyTorch)
     ```
 
 2. Install the required dependencies:
