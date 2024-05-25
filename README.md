@@ -15,8 +15,8 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone <[repository-url](https://github.com/Elomunait/John-Elomunait---Handwritten-Digits-Classifier-with-PyTorch.git)>
+    cd <[repository-directory](https://github.com/Elomunait/John-Elomunait---Handwritten-Digits-Classifier-with-PyTorch)>
     ```
 
 2. Install the required dependencies:
@@ -64,4 +64,4 @@ os.environ['PATH'] = f"{os.environ['PATH']}:/root/.local/bin"
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
